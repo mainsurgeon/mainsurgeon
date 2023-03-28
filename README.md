@@ -1,1 +1,1 @@
-<img src="https://github.com/mainsurgeon/mainsurgeon/blob/main/Data-A.jpg" width="375" alt="Привет!">
+<img src="https://github.com/mainsurgeon/mainsurgeon/blob/main/Data-A.jpg" width="600">
