@@ -1,1 +1,1 @@
-<img src="https://disk.yandex.ru/i/iCXyQdsJwRMK6Q">
+<img src="https://github.com/mainsurgeon/mainsurgeon/blob/main/Data-A.jpg">
