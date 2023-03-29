@@ -2,9 +2,9 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Аналитика+это+искусство!)](https://git.io/typing-svg)
   
-  :green_heart:
+:green_heart:
   
-  </div>
+</div>
   
 
 <div id="header" align="center">
