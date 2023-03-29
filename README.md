@@ -27,9 +27,11 @@
   
 <hr>
 Привет!
-&#9658;
-&#767;
-&#2400;
+
+<pre>
+Some text: &#x2718;
+Some text: &#x2713;
+</pre
 
 <img src="https://thumbs.gfycat.com/AchingAggravatingAtlasmoth-size_restricted.gif" width="200px" align="center">
 
