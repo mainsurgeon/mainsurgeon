@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Аналитика+это+искусство!)]:green_heart:(https://git.io/typing-svg)</a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Аналитика+это+искусство!)]:green_heart:
 
 </div>
 
