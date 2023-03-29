@@ -56,22 +56,3 @@
 |[06. Создание дашборда по пользовательским событиям для агрегатора новостей](https://nbviewer.org/github/mainsurgeon/Practicum/blob/main/06.%20%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%B4%D0%BB%D1%8F%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD/%D0%94%D0%B7%D0%B5%D0%BD.ipynb)|Анализ взаимодействия пользователей с карточками Яндекс.Дзен. Построение дашборда. Создание презентации.|`python` `pandas` `PostgreSQL` `dash` `seaborn` `Tableau`|
 |[07. Исследование опроса клиентов телекомунникацонной компании](https://nbviewer.org/github/mainsurgeon/Practicum/blob/main/07.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/NPS.ipynb)|Исследование данных с результатами опроса, отражающего текущий уровень потребительской лояльности (NPS) клиентов телекоммуникационной компании.|`python` `pandas` `SQL` `Tableau`|
 
-- uses: mainsurgeon/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
