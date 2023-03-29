@@ -28,11 +28,6 @@
 <hr>
 Привет!
 
-<pre>
-Some text: &#x2718;
-Some text: &#x2713;
-</pre
-
 <img src="https://thumbs.gfycat.com/AchingAggravatingAtlasmoth-size_restricted.gif" width="200px" align="center">
 
 Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.org/github/mainsurgeon/Practicum/tree/main/).  
