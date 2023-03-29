@@ -1,9 +1,9 @@
-<div id="header" align="center">
-  
+<div align="center">
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Аналитика+это+искусство!)](https://git.io/typing-svg)</a>:green_heart:
 
 </div>
-  
+
 
 <div id="header" align="center">
   <img src="https://github.com/mainsurgeon/mainsurgeon/blob/main/Data-A.jpg" width="650"/>
