@@ -1,4 +1,8 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&pause=1000&color=A0D0E7&center=true&width=435&lines=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0+%D1%8D%D1%82%D0%BE+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE!%F0%9F%92%9A)](https://git.io/typing-svg)
+  
+</div>
 
 
 <div id="header" align="center">
