@@ -27,6 +27,9 @@
   
 <hr>
 Привет!
+&#9658;
+&#767;
+&#2400;
 
 <img src="https://thumbs.gfycat.com/AchingAggravatingAtlasmoth-size_restricted.gif" width="200px" align="center">
 
