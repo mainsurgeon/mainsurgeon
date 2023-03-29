@@ -26,7 +26,7 @@
 </div>
   
 <hr>
-Привет!
+Привет! :space_invader:
 
 <img src="https://thumbs.gfycat.com/AchingAggravatingAtlasmoth-size_restricted.gif" width="200px" align="center">
 
