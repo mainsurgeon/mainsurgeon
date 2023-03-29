@@ -58,4 +58,4 @@
 
 <hr>
 
-![snake gif](https://github.com/mainsurgeon/mainsurgeon/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mainsurgeon/mainsurgeon/blob/output/github-contribution-grid-snake.svg)
