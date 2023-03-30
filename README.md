@@ -62,4 +62,8 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainsurgeon&show_icons=true&theme=merko)
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainsurgeon&show_icons=true&theme=synthwave)
+  
+</div>
