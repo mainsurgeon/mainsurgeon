@@ -30,7 +30,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainsurgeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 </div>
-  
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mainsurgeon&theme=blue-green)
+
+
 <hr>
 Привет! :space_invader:  
 
