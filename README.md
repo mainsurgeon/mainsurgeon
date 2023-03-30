@@ -22,17 +22,17 @@
 
 <div align="center">
   
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mainsurgeon&theme=blue-green)
+  
+</div>
+
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Tableau](https://camo.githubusercontent.com/1b1a1740cefbf2af3fa3573461dfaa66f314a9c10671d00293060d455e1659a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d5461626c656175266c6f676f436f6c6f723d7768697465) ![GitHub](https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)</a>
 
 </div>
 
-<hr>
 
-<div align="center">
-  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mainsurgeon&theme=blue-green)
-  
-</div>
 
 <hr>
  
