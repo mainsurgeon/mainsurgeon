@@ -37,7 +37,7 @@
 <hr>
 
 
-##Привет!:space_invader: 
+      Привет!:space_invader: 
 
 | <img src="https://thumbs.gfycat.com/AchingAggravatingAtlasmoth-size_restricted.gif" width="200px" align="center">|Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.org/github/mainsurgeon/Practicum/tree/main/). Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы и файлы с описанием README.md - переходи на соответствующий [репозиторий](https://github.com/mainsurgeon/Practicum).|
 | :--------------------------| :-------------------- |
