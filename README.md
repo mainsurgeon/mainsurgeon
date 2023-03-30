@@ -31,8 +31,9 @@
 
 </div>
 
+<div align="center">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mainsurgeon&theme=blue-green)
-
+</div>
 
 <hr>
 Привет! :space_invader:  
