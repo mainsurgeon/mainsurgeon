@@ -37,7 +37,7 @@
 <hr>
  
 
-| <img src="[https://thumbs.gfycat.com/AchingAggravatingAtlasmoth-size_restricted.gif](https://avatars.dzeninfra.ru/get-zen_doc/1922981/pub_5d7f58c11ee34f00ac848b0a_5d7f5c758c5be800af0ab215/orig)" width="200px" align="center">|Отображение некоторых элементов ограничено :space_invader: - рекомендую смотреть проекты через [External Viewer](https://nbviewer.org/github/mainsurgeon/Practicum/tree/main/). Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы и файлы с описанием README.md - переходи на соответствующий [репозиторий](https://github.com/mainsurgeon/Practicum).|
+| <img src="[[https://thumbs.gfycat.com/AchingAggravatingAtlasmoth-size_restricted.gif](https://avatars.dzeninfra.ru/get-zen_doc/1922981/pub_5d7f58c11ee34f00ac848b0a_5d7f5c758c5be800af0ab215/orig)]([https://avatars.dzeninfra.ru/get-zen_doc/1922981/pub_5d7f58c11ee34f00ac848b0a_5d7f5c758c5be800af0ab215/orig](https://avatars.dzeninfra.ru/get-zen_doc/1922981/pub_5d7f58c11ee34f00ac848b0a_5d7f5c758c5be800af0ab215/orig))" width="200px" align="center">|Отображение некоторых элементов ограничено :space_invader: - рекомендую смотреть проекты через [External Viewer](https://nbviewer.org/github/mainsurgeon/Practicum/tree/main/). Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы и файлы с описанием README.md - переходи на соответствующий [репозиторий](https://github.com/mainsurgeon/Practicum).|
 | :--------------------------| :-------------------- |
 
 
